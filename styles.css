@@ -1,0 +1,54 @@
+* {
+    font-family: "Atomic Age", Helvetica, Arial, sans-serif;
+}
+
+.title {
+    color: cyan;
+    background-color: orange;
+    font-size: 44px;
+    font-weight: 850;
+    text-align: center;
+}
+
+a {
+    color: darkorchid;
+    font-size: 24px;
+    font-weight: 550;
+    text-align: justify;
+}
+
+.ul, .ol {
+    color: black;
+    background-color: lightskyblue;
+    font-size: 22px;
+}
+
+.pizza, .kebab, .pasta {
+    color: salmon;
+    background-color: lightgoldenrodyellow;
+}
+
+.ul.pizza {
+    color: orange;
+    font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+h1 {
+    color: lightslategrey;
+    background-color: lightblue;
+    font-size: 40px;
+    font-weight: 800;
+    text-align: center;
+}
+
+h2 {
+    color: lightslategrey;
+    background-color: lightblue;
+    font-size: 36px;
+    font-weight: 700;
+}
+
+p {
+    color: black;
+    background-color: cyan;
+}
