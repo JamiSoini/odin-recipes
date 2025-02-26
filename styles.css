@@ -1,5 +1,8 @@
-* {
+*,
+*::before,
+*::after {
     font-family: "Atomic Age", Helvetica, Arial, sans-serif;
+    box-sizing: border-box;
 }
 
 .title {
