@@ -11,19 +11,36 @@
     font-size: 44px;
     font-weight: 850;
     text-align: center;
+    padding: 12px;
 }
 
 a {
     color: darkorchid;
     font-size: 24px;
     font-weight: 550;
-    text-align: justify;
+}
+
+img {
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: lightgoldenrodyellow;
+}
+
+.home {
+    display: block;
+    padding: 5px;
+    margin-left: 50px;
+    margin-top: -5px;
+    margin-bottom: 25px;
 }
 
 .ul, .ol {
     color: black;
     background-color: lightskyblue;
     font-size: 22px;
+    padding: 16px 32px;
+    margin-left: 50px;
+    margin-right: 50px;
 }
 
 .pizza, .kebab, .pasta {
@@ -31,7 +48,7 @@ a {
     background-color: lightgoldenrodyellow;
 }
 
-.ul.pizza {
+.pizza {
     color: orange;
     font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
 }
@@ -42,6 +59,9 @@ h1 {
     font-size: 40px;
     font-weight: 800;
     text-align: center;
+    padding: 12px;
+    margin-left: 50px;
+    margin-right: 50px;
 }
 
 h2 {
@@ -49,9 +69,15 @@ h2 {
     background-color: lightblue;
     font-size: 36px;
     font-weight: 700;
+    padding: 8px;
+    margin-left: 50px;
+    margin-right: 50px;
 }
 
 p {
     color: black;
     background-color: cyan;
+    padding: 5px;
+    margin-left: 50px;
+    margin-right: 50px;
 }
